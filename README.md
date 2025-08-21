@@ -1,5 +1,6 @@
 ## Hi there 👋
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tendonintendo](https://github.com/anuraghazr/github-readme-stats)
+
 <!--
 **tendonintendo/tendonintendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
