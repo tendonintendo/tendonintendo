@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tendonintendo)](https://github.com/anuraghazr/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tendonintendo&show_icons=true&count_private=true&hide_rank=false&theme=dark&include_all_commits=true)](https://github.com/anuraghazr/github-readme-stats)
 
 
 <!--
