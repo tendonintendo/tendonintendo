@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=tendonintendo&theme=journey&hide=rank&pixelate_avatar=true&dithering=true)
+![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=tendonintendo&theme=journey&hide=rank&pixelate_avatar=true&dithering=true&include_all_commits=true)
 
 
 <!--
