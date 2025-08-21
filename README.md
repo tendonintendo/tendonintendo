@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tendonintendo&show_icons=true&count_private=true&hide_rank=false&theme=dark&include_all_commits=true)](https://github.com/anuraghazr/github-readme-stats)
+[[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tendonintendo&show_icons=true&count_private=true&hide_rank=false&theme=dark&include_all_commits=true)](https://github.com/anuraghazr/github-readme-stats)](https://pixel-profile.vercel.app/api/github-stats?username=tendonintendo&screen_effect=true&theme=rainbow)
 
 
 <!--
