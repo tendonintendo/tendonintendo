@@ -1,6 +1,6 @@
-## Hi there 👋
-![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=tendonintendo&theme=journey&hide=rank&pixelate_avatar=true&dithering=true&include_all_commits=true)
-
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics">
+</p>
 
 <!--
 **tendonintendo/tendonintendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
